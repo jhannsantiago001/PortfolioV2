@@ -74,8 +74,26 @@ input, select, textarea {
 
 .project-image{
 	margin-top: 20px;
+	width:100%;
+	height: 100%;
+	margin-bottom: auto;
+}
+.static-proj:hover{
+	content: url('../../images/todogif.gif');
+	margin-top: 20px;
 	width: 100%;
 }
+
+.static-proj2:hover{
+	content: url('../../images/ecom.gif');
+	margin-top: 20px;
+	width: 100%;
+}
+
+.project-text{
+	margin-top: auto;
+}
+
 
 /* Basic */
 
